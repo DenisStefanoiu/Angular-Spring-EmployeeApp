@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package net.employee.spring.model;
 
 import jakarta.persistence.*;
 
