@@ -1,2 +1,2 @@
 # Angular-Spring-EmployeeApp
-**Angular and Spring Boot Employee App**
+**Angular and Spring Boot CRUD Employee App**
