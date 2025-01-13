@@ -1,12 +1,14 @@
 # Angular-Spring-EmployeeApp
 **Angular and Spring Boot CRUD Employee App**
 Backend Development with Java Spring Boot:
+
 RESTful API Design: Implemented RESTful web services for handling client requests and responses.
 Data Persistence: Utilized Spring Data JPA for database interactions and managing entities.
 Authentication and Authorization: Implemented user authentication and role-based access control using Spring Security.
 Service Layer Design: Created services to encapsulate business logic and interact with repositories.
 
 Frontend Development with Angular:
+
 Dynamic User Interfaces: Developed interactive and responsive user interfaces using Angular.
 Component-Based Architecture: Leveraged Angular components, services, and modules for scalable application architecture.
 Form Handling: Implemented form handling, validation, and user input management.
